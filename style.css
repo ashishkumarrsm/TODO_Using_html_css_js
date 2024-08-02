@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('https://blogger.googleusercontent.com/img/a/AVvXsEjJE_XGG34MUGF5EKYtlWs0csHJjK9xAiHMrCb5vVYa_qOPBITtJmvA93M0cVMeT3M0ArgC8zVDVHL9yiUQpWRILX4_BIgDLu7mgeFphXEBd9oppd0PPUmFbhGpZ_dejTfv2smLTu1JlNsrCgpCIGF3wM5eItbVhQOhNAfrEeItl_T-gBERD43O5WvyygI=s1600-rw') no-repeat center center fixed;
+    background-size: cover;
+    animation: backgroundAnimation 10s infinite alternate;
+}
+
+@keyframes backgroundAnimation {
+    0% {
+        filter: brightness(1);
+    }
+    100% {
+        filter: brightness(0.8);
+    }
+}
+
+.container {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    animation: fadeIn 1s ease-in-out;
+    background: linear-gradient(135deg, #fefdd0ab 0%, #4a4750a9 100%);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type="text"] {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background: #28a745;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #218838;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: linear-gradient(135deg,#ada3a973 0%, #f9a8658a  100%);
+    color: rgb(0, 0, 0);
+    transition: background 0.3s, transform 0.3s;
+}
+
+li.done {
+    text-decoration: line-through;
+    color: #888;
+    background: linear-gradient(135deg, #fefdd070 0%, #4a47503d 100%);
+    animation: doneAnimation 1s ease-out forwards;
+}
+
+@keyframes doneAnimation {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
