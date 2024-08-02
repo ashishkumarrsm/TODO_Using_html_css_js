@@ -12,7 +12,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. I
 
 ## Demo
 
-![Demo](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/)
+![Demo](https://blogger.googleusercontent.com/img/a/AVvXsEjJE_XGG34MUGF5EKYtlWs0csHJjK9xAiHMrCb5vVYa_qOPBITtJmvA93M0cVMeT3M0ArgC8zVDVHL9yiUQpWRILX4_BIgDLu7mgeFphXEBd9oppd0PPUmFbhGpZ_dejTfv2smLTu1JlNsrCgpCIGF3wM5eItbVhQOhNAfrEeItl_T-gBERD43O5WvyygI=s1600-rw)
 https://ashishkumarrsm.github.io/TODO_Using_html_css_js/
 
 ## Getting Started
