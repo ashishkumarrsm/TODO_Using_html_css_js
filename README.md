@@ -12,7 +12,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. I
 
 ## Demo
 
-![Demo](https://blogger.googleusercontent.com/img/a/AVvXsEjJE_XGG34MUGF5EKYtlWs0csHJjK9xAiHMrCb5vVYa_qOPBITtJmvA93M0cVMeT3M0ArgC8zVDVHL9yiUQpWRILX4_BIgDLu7mgeFphXEBd9oppd0PPUmFbhGpZ_dejTfv2smLTu1JlNsrCgpCIGF3wM5eItbVhQOhNAfrEeItl_T-gBERD43O5WvyygI=s1600-rw)
+![Demo](https://ashishkumarrsm.github.io/TODO_Using_html_css_js/)
 
 ## Getting Started
 
@@ -29,7 +29,7 @@ This is a simple To-Do List application built using HTML, CSS, and JavaScript. I
 
 2. Navigate to the project directory
    ````bash
-   <span>cd todo-list-application</span>
+   cd todo-list-application
 
 3. Open index.html in your web browser to run the application.
 
@@ -52,8 +52,8 @@ Favicon from Blogger
 
  #### <h2>Contact</h2>
   If you have any questions or feedback, please contact me via the following:
-        GitHub: <a href="https://github.com/ashishkumarrsm">ashishkumarrsm</a>
-        Twitter: <a href="https://x.com/Ashi010702Kumar">Ashi010702Kumar</a>
-        LinkedIn: <a href="https://www.linkedin.com/in/ashish-kumar-476178259/">Ashish Kumar</a>
-        LinkedIn: <a href="https://www.linkedin.com/in/ashish-kumar-476178259/">Ashish Kumar</a>
-        Portfolio: <a href="https://ashishkumarrsm.github.io/Portfolio/"> ashishkumarrsm.github.io/Portfolio</a>
+       1. GitHub: <a href="https://github.com/ashishkumarrsm">ashishkumarrsm</a><br>
+       2. Twitter: <a href="https://x.com/Ashi010702Kumar">Ashi010702Kumar</a><br>
+       3. LinkedIn: <a href="https://www.linkedin.com/in/ashish-kumar-476178259/">Ashish Kumar</a><br>
+       4. LinkedIn: <a href="https://www.linkedin.com/in/ashish-kumar-476178259/">Ashish Kumar</a><br>
+       5. Portfolio: <a href="https://ashishkumarrsm.github.io/Portfolio/"> ashishkumarrsm.github.io/Portfolio</a><br>
