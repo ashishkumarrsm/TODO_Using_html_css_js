@@ -36,22 +36,22 @@ https://ashishkumarrsm.github.io/TODO_Using_html_css_js/
 
 
 
-#### Usage
+### Usage
 1. Add a Task: Enter a task in the input field and click the "Add Task" button.
 2. Mark Task as Done: Click the "Done" button next to a task to mark it as completed. The task will be crossed out and a completion animation will play.
 3. Delete a Task: Click the "Delete" button next to a task to remove it from the list.
 
-#### Code Structure
-index.html: The main HTML file containing the structure of the application.
-style.css: The CSS file containing styles and animations for the application.
-script.js: The JavaScript file containing the logic for adding, marking as done, and deleting tasks.
+### Code Structure
+index.html: The main HTML file containing the structure of the application.<br>
+style.css: The CSS file containing styles and animations for the application.<br>
+script.js: The JavaScript file containing the logic for adding, marking as done, and deleting tasks.<br>
 
 
-#### Acknowledgments
-Background image from Blogger
+### Acknowledgments
+Background image from Blogger<br>
 Favicon from Blogger
 
- #### <h2>Contact</h2>
+ ### <h2>Contact</h2>
   If you have any questions or feedback, please contact me via the following:
        1. GitHub: <a href="https://github.com/ashishkumarrsm">ashishkumarrsm</a><br>
        2. Twitter: <a href="https://x.com/Ashi010702Kumar">Ashi010702Kumar</a><br>
